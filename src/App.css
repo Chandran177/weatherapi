@@ -1,0 +1,58 @@
+.i{
+  font-size: 20px;
+  color:red;
+  position: absolute;
+  right:5px;
+  top:3px;
+  border: none;
+  background-color: transparent;
+}
+main{
+  margin: auto;
+  width: 300px;
+  margin-top: 50px;
+  background-color: rgba(0, 0, 0,0.4);
+  text-align: center;
+  padding: 50px 20px;
+  border-radius: 30px;
+}
+.in{
+  position: relative;
+  width: fit-content;
+  margin: auto;
+  /* background-color: brown; */
+}
+.icon{
+  font-size: 30px;
+ 
+}
+.size{
+  font-size: 30px;
+}
+.display{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  gap:50px;
+  background-color: red;
+  border-radius: 5px;
+}
+
+input{
+  width: 200px;
+  height: 30px;
+  border-radius: 50px;
+  outline: none;
+  border: none;
+  padding: 0 15px;
+  box-sizing: border-box;
+  padding-right: 33px;
+}
+/* p{
+  font-size:1rem;
+} */
+.humid{
+  display: grid;
+  justify-content: center;
+  align-items: baseline;
+}
