@@ -1,0 +1,2 @@
+# weatherapi
+apito getweather data
